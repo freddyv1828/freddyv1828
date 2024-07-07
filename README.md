@@ -1,5 +1,5 @@
 #  Hola Soy Freddy Valero 
-### apasionado por la ciencia de datos y experto en Big Data, ETL pipelines de datos, visualización y análisis de datos. Comprometido con el aprendizaje continuo y siempre estoy buscando nuevas formas de mejorar mis habilidades. Tengo experiencia en SQL, MongoDB, Pandas, NumPy, Docker, Hadoop, Spark y Linux. Estoy comprometido a aprender y crecer como desarrollador. 
+### Apasionado por la ciencia de datos y experto en Big Data, ETL pipelines de datos, visualización y análisis de datos. Comprometido con el aprendizaje continuo y siempre estoy buscando nuevas formas de mejorar mis habilidades. Tengo experiencia en SQL, MongoDB, Pandas, NumPy, Docker, Hadoop, Spark y Linux. Estoy comprometido a aprender y crecer como desarrollador. 
 
 ### Manejando herramientas como Python, SQL, Spark Power BI, matplotlib. Aplicando técnicas de machine learning como regresión lineal, árboles de decisión y redes neuronales. Me gusta participar y liderar proyectos para lograr objetivos, siendo capaz de traducir los requisitos técnicos en soluciones de negocio. 
 
